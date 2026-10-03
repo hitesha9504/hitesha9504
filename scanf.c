@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+  char name[50];
+  printf("Enter your Name:");
+  scanf("%s",name);
+  printf("your name is:%s",name);
+  return 0;
+}
+
+
+//otput
+//Enter your Name:Hitesha
+//Your name is Hitesha
