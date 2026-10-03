@@ -7,7 +7,7 @@
 ### ✨My Skills
  - Basics of Computer Fundamentals
  - Coding
- - Mathematics
+ - Mathematics(basics + medium)
  - Communication
 
  Thanks for visiting! 😊
